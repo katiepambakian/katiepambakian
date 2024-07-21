@@ -1,4 +1,8 @@
 ## Hi there 👋
+## I'm Katie
+## I'm currently studying at the university of bristol
+## Take a look at my website:
+## katie.pambakian@github.io
 
 <!--
 **katiepambakian/katiepambakian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
