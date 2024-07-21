@@ -1,8 +1,7 @@
 ## Hi there 👋<br>
 I'm Katie<br>
 I'm currently studying at the University of Bristol <br> <br>
-Take a look at my website:<br>
-[katie.pambakian@github.io](https://katiepambakian.github.io)<br>
+[Take a look at my website](https://katiepambakian.github.io)<br>
 
 <!--
 **katiepambakian/katiepambakian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
